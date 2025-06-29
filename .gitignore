@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # SQLite DB File
-.db
+*.db
